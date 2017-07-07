@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Tickets</string>
+
+
+    <string name="service_url">http://userservice.app.veery.cloud/</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="action_settings">Logout</string>
+    <string name="action_menu">Menu</string>
+    <string name="server_error">Server Error. Try Again Later</string>
+
+
+    <!-- Progress loading message -->
+    <string name="gather_user_data">Gathering User Data&#8230;</string>
+    <string name="signing_in">Signing in...</string>
+    <string name="searching">Searching&#8230;</string>
+    <string name="loading">loading…</string>
+    <string name="sending">sending…</string>
+    <string name="title_activity_tickets">TicketsActivity</string>
+</resources>
