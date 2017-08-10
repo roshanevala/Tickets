@@ -2,7 +2,7 @@
     <string name="app_name">Tickets</string>
 
 
-    <string name="service_url">http://userservice.app.veery.cloud/</string>
+    <string name="service_url">http://your_url/</string>
 
     <!-- Strings related to login -->
     <string name="prompt_email">Email</string>
